@@ -1,8 +1,8 @@
 # Scraping_Job_Vacancies
-Project scraping different sites to obtain a variety of job vacancies
+
+This project involves scraping job data from Indeed to collect a variety of job postings and then writing this data into a CSV file. The user inputs one or more job positions and a location to then obtain a CSV file including every job posting that appears in the search result.
+
 ## Running the script
-
-
 To run the script the following parameters are needed:
 
 - Position(List of strings): List including one or more positions to search for.
