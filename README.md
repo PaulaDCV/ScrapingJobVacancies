@@ -1,4 +1,4 @@
-# Scraping_Job_Vacancies
+# Scraping  Job Vacancies
 
 This project involves scraping job data from Indeed to collect a variety of job postings and then writing this data into a CSV file. The user inputs one or more job positions and a location to then obtain a CSV file including every job posting that appears in the search result.
 
@@ -16,7 +16,7 @@ Run a cell with:
 
 **main(["data analysis", "software development"], "London",)**
 
-    Returns job postings for <u>data analysis</u> and<u> software development</u> in <u>London</u>. A CSV     file named "SearchResults.csv" is generated.
+    Returns job postings for <u>data analysis</u> and<u> software development</u> in <u>London</u>. A CSV file named "SearchResults.csv" is generated.
 
 **main(["Healthcare"] "Brighton","Search1)"**
 
